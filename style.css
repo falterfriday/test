@@ -1,0 +1,13 @@
+#wrapper {
+	background-color: black;
+	color:white;
+	width: 700px;
+	padding: 10px;
+}
+img {
+	height:200px;
+	width: 300px;
+	border: solid gray 2px;
+	display: inline-block;
+	align: center;
+}
